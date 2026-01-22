@@ -20,7 +20,25 @@ An **Augmented Reality Flutter application** that brings posters and visuals to 
 ## 📸 Screenshots
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095411_ar_posters.png" width="280"/>
   <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/IMG_20260122_094609.jpg" width="280"/>
+  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/IMG_20260122_094723.jpg" width="280"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/IMG_20260122_094907.jpg" width="280"/>
+  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/IMG_20260122_094954.jpg" width="280"/>
+  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095020_ar_posters.png" width="280"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095035_ar_posters.png" width="280"/>
+  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095402_ar_posters.png" width="280"/>
+  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095407_ar_posters.png" width="280"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095324_ar_posters.png" width="280"/>
 </p>
 
 ---
@@ -30,12 +48,23 @@ An **Augmented Reality Flutter application** that brings posters and visuals to 
 > Videos demonstrating AR interaction and poster scanning.
 
 - ▶️ **AR Poster Demo 1**  
-  *(Add your video link here)*
+  https://mega.nz/file/J7R2RCoa#UUN_WKaBBV8U_nwhpTNjx9zgb9libbSSd8SZEI1SfUE
 
 - ▶️ **AR Poster Demo 2**  
-  *(Add your video link here)*
+  https://mega.nz/file/QjYUzRDQ#xTtQe_KbqFCpimaGp2JdOuJT8fCX2XjSYoy8meClxgM  
 
-👉 _Tip: Upload videos to GitHub Releases or use Google Drive / YouTube (unlisted) and paste links here._
+- ▶️ **AR Poster Demo 3**  
+  https://mega.nz/file/JiwEFBDa#1ZPlpf8UGXTwWUzIfaiubgudo8imxTcrhVSHxpZoeAo  
+
+- ▶️ **AR Poster Demo 4**  
+  https://mega.nz/file/AngngD4a#_brNriEbqBKOvF8CjnrAAf2soMBkE0KqjG0CKlvEHAA  
+
+---
+
+## 📦 APK Download
+
+👉 **Download APK:**  
+https://www.mediafire.com/file/xr9bsbnrs8ubg3b/AR_Expo.apk/file
 
 ---
 
