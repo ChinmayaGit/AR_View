@@ -1,4 +1,4 @@
-# 🖼️ AR Expo (ar_posters)
+# 🖼️ AR View (ar_posters)
 
 An **Augmented Reality Flutter application** that brings posters and visuals to life using AR technology.
 
