@@ -21,25 +21,22 @@ An **Augmented Reality Flutter application** that brings posters and visuals to 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095411_ar_posters.png" width="280"/>
+  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095324_ar_posters.png" width="280"/>
   <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/IMG_20260122_094609.jpg" width="280"/>
-  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/IMG_20260122_094723.jpg" width="280"/>
 </p>
 
 <p align="center">
+    <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/IMG_20260122_094723.jpg" width="280"/>
   <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/IMG_20260122_094907.jpg" width="280"/>
   <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/IMG_20260122_094954.jpg" width="280"/>
-  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095020_ar_posters.png" width="280"/>
 </p>
 
 <p align="center">
+    <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095020_ar_posters.png" width="280"/>
   <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095035_ar_posters.png" width="280"/>
   <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095402_ar_posters.png" width="280"/>
-  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095407_ar_posters.png" width="280"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChinmayaGit/AR_View/refs/heads/main/dumps/Screenshot_20260122-095324_ar_posters.png" width="280"/>
-</p>
 
 ---
 
